@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=williamllk-ai&label=Views&color=78a890&style=flat-square)
+
 <!--
 **williamllk-ai/williamllk-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
