@@ -8,6 +8,7 @@
 
 <img src="https://img.shields.io/badge/🌱_Born-2007-f3f4f6?style=flat-square&labelColor=f3f4f6&color=f3f4f6">
 <img src="https://img.shields.io/badge/📍_Location_/_Shanghai-f3f4f6?style=flat-square&labelColor=f3f4f6&color=f3f4f6">
+<img src="https://img.shields.io/badge/🎓_School_/_Shanghai Jiao Tong University-f3f4f6?style=flat-square&labelColor=f3f4f6&color=f3f4f6">
 
 <br><br>
 
