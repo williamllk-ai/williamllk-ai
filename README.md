@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+[![Gmail](https://img.shields.io/badge/william60kun@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+[![BLOG](https://img.shields.io/badge/BLOG-YourWikiName-c49a6c?style=flat-square&logo=readme&logoColor=white)](https://williamllk-ai.github.io)
+
 ![](https://komarev.com/ghpvc/?username=williamllk-ai&label=Views&color=78a890&style=flat-square)
 
 <!--
