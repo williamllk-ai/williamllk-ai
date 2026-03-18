@@ -21,12 +21,12 @@
 
 <br>
 
-* I'm grateful to live in an open-source world with helpful Ai.
+* I'm grateful to live in an open-source world with helpful AI.
 * Welcome to my blog page below.
 * I'm happy to contribute for free to fun projects & ideas, feel free to email me.
 
 ### Links
 
-[![BLOG](https://img.shields.io/badge/BLOG-MyWiki-c49a6c?style=flat-square&logo=readme&logoColor=white)](https://williamllk.github.io)
+[![BLOG](https://img.shields.io/badge/BLOG-MyWiki-c49a6c?style=flat-square&logo=readme&logoColor=white)](https://williamllk-ai.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-william60kun@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:william60kun@gmail.com)
 ![](https://komarev.com/ghpvc/?username=williamllk-ai&label=Views&color=78a890&style=flat-square)
