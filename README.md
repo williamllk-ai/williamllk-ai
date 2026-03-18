@@ -14,9 +14,9 @@
 
 <br>
 
-* I'm grateful to live in an open-source world.
+* I'm grateful to live in an open-source world with helpful Ai.
+* Welcome to my blog page below.
 * I'm happy to contribute for free to fun projects & ideas, feel free to email me.
-* If you’re interested in what I’m building, welcome to join me.
 
 ### Links
 
