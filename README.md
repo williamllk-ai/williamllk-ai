@@ -22,9 +22,10 @@
 
 <br>
 
-* I'm grateful to live in an open-source world with helpful AI.
-* Welcome to my blog page below.
-* I'm happy to contribute for free to fun projects & ideas, feel free to email me.
+* I'm now an undergraduate in Shanghai Jiao Tong University.
+* I'm happy to contribute to interesting projects, wishing to make friends with you.
+* Welcome to my personal blog page below, where I've written some articles concerning CS and Math basics.
+* Feel free to email me.
 
 ### Links
 
