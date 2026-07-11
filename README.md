@@ -2,7 +2,7 @@
 
 <h2 style="color: #c49a6c;">Hi, I'm William Lu. Glad to meet you!</h2>
 
-<h3 style="color: #c49a6c;">C++ | Python | SLAM </h3>
+<h3 style="color: #c49a6c;">C++ | Python | Visual SLAM | 3D Reconstruction </h3>
 
 <p>👋 I am open to scientific research opportunities in any interesting direction.</p>
 
@@ -22,9 +22,9 @@
 
 <br>
 
-* I'm now an undergraduate in Shanghai Jiao Tong University.
+* I'm now an undergraduate in Shanghai Jiao Tong University major in Computer Science.
 * I'm happy to contribute to interesting projects, wishing to make friends with you.
-* Welcome to my personal blog page below, where I've written some articles concerning CS and Math basics.
+* Welcome to my personal blog page below, where I've written some articles concerning Data Stucture, CV, SLAM and Linear Algebra.
 * Feel free to email me.
 
 ### Links
